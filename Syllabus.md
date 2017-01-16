@@ -2,18 +2,16 @@
 ***57344/60407: Experimental Sound Synthesis***
 
 Instructor: Professor Jesse Stiles ([jessestiles@cmu.edu](mailto:jessestiles@cmu.edu))    
-TA: Alexander Panos 
+TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))      
 Time: M/W 9:30AM - 11:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
-Class website: [http://courses.ideate.cmu.edu/18-090/f2016/](https://courses.ideate.cmu.edu/18-090/f2016/)  
+Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
 Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
-TA office hours: Fridays, 2-4PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
+TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
 COURSE DESCRIPTION
 
-This course presents an overview on manipulating and synthesizing sound, video, and control signals. Signals are the raw materials used in many forms of electronic art and design - electronic music, interactive art, video art, kinetic sculpture, and more. In these fields, signals are used to represent information about sound, images, sensors, and movement. By transforming and manipulating these types of signals, we are able to create powerful new tools for digital art, multimedia applications, music, responsive environments, video and sound installation, smart products, and beyond.
-
-In this course we will study Signal Processing from a practical point-of-view, developing tools that can be easily integrated into art-making using the graphical programming environment Max (a.k.a. Max/MSP/Jitter). We will present a survey of Signal Processing techniques used in the sonic and visual arts, and will discuss the mathematical theories underlying these techniques. Students will be encouraged to combine, modify, and extend working examples of software to create original digital artworks.
+Description goes here
 
 COURSE CALENDAR
 
