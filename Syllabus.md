@@ -26,6 +26,14 @@ Please join the [class Facebook Group](https://www.facebook.com/groups/ESS.S17/)
 
 Students are expected to post to the [Facebook Group](https://www.facebook.com/groups/ESS.S17/) at least once per week.  Your post can be about anything even tangentially related to the course.  Posts can be as simple as a link to a youtube video that you find interesting - for example documentation of [a work of electronic art](https://www.youtube.com/watch?v=AdK-no9dKIA), or a [Max tutorial](https://www.youtube.com/results?search_query=max+tutorial) you found useful.  Your posts could also just be questions or commentary that you might have about course-related topics throughout the semester.  Posting to the Facebook Group is a great way of sharing your knowledge and learning experience with your fellow students.  Please post the group by the end of the day every Sunday so that we can discuss posts in class the following Monday.
 
+FILE SHARING
+
+We will use a [Github repo](https://github.com/jts3k/ESS-S17) to share code and a [Google Drive directory](https://goo.gl/GR53PF) to share other files such as readings, audio/video recordings, etc.  Bookmark these important resources!
+
+USING THE MEDIA LAB
+
+You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects.  To use the Media Lab outside of class time you must make a reservation using the [online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5).  When using the Media Lab outside of class you must comply with the [policies indicated on the IDeATe website](https://resources.ideate.cmu.edu/spaces/media-lab/).  The Media Lab has a [dedicated Github repo](https://github.com/jts3k/MediaLab) with tutorials and demo software for using the various equipment in the space - bookmark it!
+
 COURSE CALENDAR
 
 The course calendar can be viewed online [here](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  
@@ -101,16 +109,6 @@ You may work on the Mac Pro that is permanently installed in the Media Lab.  Sel
 You may also work on any of the 40 MacBook Pro laptops that are available to you in the IDeATe storage room.  Similarly, you must be diligent in backing up your work when using these machines.  The laptops and the Mac Pro all have Max 7, Logic Pro, Audacity, Arduino, Final Cut, Photoshop, Illustrator, and many other useful pieces of software.
 
 Thirdly, you may work on your own computer.  If you work on your own computer you will be responsible for acquiring and maintaining any of the software you choose to use.  Your instructor cannot provide technical support on your computer for you.  
-
-USING THE MEDIA LAB
-
-You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects.  To use the Media Lab outside of class time you must make a reservation using the [online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5).  When using the Media Lab outside of class you must comply with the [policies indicated on the class website](http://teaching.jessestil.es/S16-ESS/media-lab-policies/).
-
-COURSE FEE
-
-There will be a course fee of $33.  This fee assists us in acquiring and maintaining the equipment that is used in the class, pays for consumable materials that will be made available to you in your projects, and will help to subsidize the research trip to the Bayernhof Museum.
-
-The course fee will be automatically charged to your Student Account on January 24, the day following the add/drop deadline.  Please consult with the instructor privately if the course fee will place an undue burden upon your participation in the course.
 
 ACADEMIC INTEGRITY
 
