@@ -6,6 +6,7 @@ TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))
 Class meeting time: M/W 9:30AM - 11:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
+Facebook Group: https://www.facebook.com/groups/ESS.S17/  
 Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
 TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
@@ -18,6 +19,12 @@ COURSE DESCRIPTION
 In this course we will explore a variety of innovative approaches to "sonic artwork" - a broad field which includes [experimental music](http://en.wikipedia.org/wiki/Experimental_music), [sound design](http://en.wikipedia.org/wiki/Sound_design), [sound art](http://en.wikipedia.org/wiki/Sound_art), and [multimedia art](http://en.wikipedia.org/wiki/Multimedia_artist).  Topics will include: composing and mixing in [multichannel sound formats](http://en.wikipedia.org/wiki/Surround_sound), designing electronic performance instruments, [electroacoustic music ](http://en.wikipedia.org/wiki/Electroacoustic_music)performance, [3D sound recording](http://en.wikipedia.org/wiki/Ambisonics), reactive sound environments, sonic sculpture, and beyond.  It will be our goal to challenge conventional methods of creating and experiencing sonic art.  To assist in this endeavor we will also develop our skills of critical listening, and will expand our vocabulary for describing our experience of sound.
 
 In this course students from a variety of disciplines will work together to design, prototype, and execute a series of ambitious projects.  The course will culminate with a concert and exhibition featuring works that demonstrate the concepts and skills we have explored throughout the semester.
+
+ONLINE DISCUSSION/ANNOUNCEMENTS
+
+Please join the [class Facebook Group](https://www.facebook.com/groups/ESS.S17/) to participate in online discussion and receive course-related announcements.
+
+Students are expected to post to the [Facebook Group](https://www.facebook.com/groups/ESS.S17/) at least once per week.  Your post can be about anything even tangentially related to the course.  Posts can be as simple as a link to a youtube video that you find interesting - for example documentation of [a work of electronic art](https://www.youtube.com/watch?v=AdK-no9dKIA), or a [Max tutorial](https://www.youtube.com/results?search_query=max+tutorial) you found useful.  Your posts could also just be questions or commentary that you might have about course-related topics throughout the semester.  Posting to the Facebook Group is a great way of sharing your knowledge and learning experience with your fellow students.  Please post the group by the end of the day every Sunday so that we can discuss posts in class the following Monday.
 
 COURSE CALENDAR
 
