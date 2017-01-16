@@ -6,7 +6,7 @@ TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))
 Class meeting time: M/W 9:30AM - 11:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
-Facebook Group: https://www.facebook.com/groups/ESS.S17/  
+Facebook Group: [https://www.facebook.com/groups/ESS.S17/](https://www.facebook.com/groups/ESS.S17/)   
 Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
 TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
@@ -19,6 +19,10 @@ COURSE DESCRIPTION
 In this course we will explore a variety of innovative approaches to "sonic artwork" - a broad field which includes [experimental music](http://en.wikipedia.org/wiki/Experimental_music), [sound design](http://en.wikipedia.org/wiki/Sound_design), [sound art](http://en.wikipedia.org/wiki/Sound_art), and [multimedia art](http://en.wikipedia.org/wiki/Multimedia_artist).  Topics will include: composing and mixing in [multichannel sound formats](http://en.wikipedia.org/wiki/Surround_sound), designing electronic performance instruments, [electroacoustic music ](http://en.wikipedia.org/wiki/Electroacoustic_music)performance, [3D sound recording](http://en.wikipedia.org/wiki/Ambisonics), reactive sound environments, sonic sculpture, and beyond.  It will be our goal to challenge conventional methods of creating and experiencing sonic art.  To assist in this endeavor we will also develop our skills of critical listening, and will expand our vocabulary for describing our experience of sound.
 
 In this course students from a variety of disciplines will work together to design, prototype, and execute a series of ambitious projects.  The course will culminate with a concert and exhibition featuring works that demonstrate the concepts and skills we have explored throughout the semester.
+
+COURSE CALENDAR
+
+The course calendar can be viewed online [here](https://courses.ideate.cmu.edu/57-344/s2017/calendar/).  
 
 ONLINE DISCUSSION/ANNOUNCEMENTS
 
@@ -34,13 +38,9 @@ USING THE MEDIA LAB
 
 You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects.  To use the Media Lab outside of class time you must make a reservation using the [online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5).  When using the Media Lab outside of class you must comply with the [policies indicated on the IDeATe website](https://resources.ideate.cmu.edu/spaces/media-lab/).  The Media Lab has a [dedicated Github repo](https://github.com/jts3k/MediaLab) with tutorials and demo software for using the various equipment in the space - bookmark it!
 
-COURSE CALENDAR
-
-The course calendar can be viewed online [here](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  
-
 ASSIGNMENTS
 
-There will be three short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  Your final project will be featured in a public concert & exhibition that will take place on Wednesday, April 27.
+There will be three short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](https://courses.ideate.cmu.edu/57-344/s2017/calendar/).  Your final project will be a collaboration with the [Phipps Conservatory and Botanical Gardens](https://phipps.conservatory.org/) for the [Butterfly Forest](https://phipps.conservatory.org/calendar/detail/butterfly-forest)!  We will be creating a site-specific musical soundscape for the beautiful Victorian greenhouse in which the butterflies will live.  We will also support the sound installation with a series of supporting concerts and other events.  More details on this exciting project will be emerge throughout the semester.
 
 For all of the work that is created in this class it will be our goal to create *fully realized* sonic artwork.  Fully realized means that the creators have carefully considered every aspect of how the work is created and and how it is experienced by the audience.  You should consider not only the qualities of sound that you create (this of course is extremely important), but every other aspect of the audience experience.  Think about how the seating will be arranged, think about the lighting that will be used, think about how the work will begin and end, how the speakers are arranged, what costumes the performers might wear, etc.  Think about the narrative experience that you are creating with your work. What is the story that this work is telling us?  It is also critical that our work is *very well documented.*  
 
@@ -60,7 +60,7 @@ Throughout the semester, readings will be distributed through the course website
 
 WORKING IN GROUPS
 
-...
+The short-term projects will be completed in groups of three to four students.  Each group member will be assessed on their individual contribution to the project.  The final project will be a collaboration with the entire class.  Again, each student will be assessed based on their individual contributions.
 
 EVALUATION
 
@@ -70,15 +70,15 @@ Each group will have an additional week beyond the due date to complete the docu
 
 Your work will be evaluated based on your specific role in the project.  For example, a project with excellent sound editing but poor documentation would result in an excellent grade for the person doing sound editing, but a poor grade for the person handling documentation.
 
-Each of the XXX short-term assignment is worth a maximum of 2 points.  Your personal research project is also worth a maximum of two points.  The points are awarded accordingly:
+The short-term assignments and your individual project will graded on a scale from 0 to 4 points. Of these 4 points, 2 shall be awarded to the quality and originality of the concept in the work. Another 2 points shall be awarded to the quality of the technical execution of the work. For both criteria, concept and execution, the determination shall be made accordingly:
 
-0:  Incomplete.  For example: the code does not work, the work does neet address the goal of the assignment, the work was not delivered on-time.
+0: Incomplete. For example: the code does not work, the work does not address the goal of the assignment, the work was not delivered on-time.
 
-1:  Satisfactory.  The work was delivered on time and addresses the goal of the assignment.
+1: Satisfactory. The work was delivered on time and addresses the goal of the assignment.
 
-2:  Excellent.  The work demonstrates an outstanding concept or execution.  The work demonstrates great insight.
+2: Excellent. The work demonstrates an outstanding concept or execution. The work demonstrates great insight.
 
-The final project will be worth a maximum of 8 points.  The points will be awarded with the same criteria as above, but then **multiplied by four.**
+The final project will be worth a maximum of 8 points.  The points will be awarded with the same criteria as above, but then **multiplied by two.**
 
 You class participation will account for another 4 points towards your final grade.
 
