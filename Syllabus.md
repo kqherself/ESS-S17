@@ -21,13 +21,13 @@ In this course students from a variety of disciplines will work together to desi
 
 COURSE CALENDAR
 
-The course calendar can be viewed online [here](http://teaching.jessestil.es/S16-ESS/calendar/).  
+The course calendar can be viewed online [here](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  
 
 ASSIGNMENTS
 
-There will be three short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](http://teaching.jessestil.es/S16-ESS/calendar/).  Your final project will be featured in a public concert & exhibition that will take place on Wednesday, April 27.
+There will be three short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  Your final project will be featured in a public concert & exhibition that will take place on Wednesday, April 27.
 
-For all of the work that is created in this class it will be our goal to create *fully realized* sonic artwork.  Fully realized means that the creators have carefully considered every aspect of how the work is created and and how it is experienced by the audience.  You should consider not only the qualities of sound that you create (this of course is extremely important), but every other aspect of the audience experience.  Think about how the seating will be arranged, think about the lighting that will be used, think about how the work will begin and end, how the speakers are arranged, what costumes the performers might wear, etc.  Think about the narrative experience that you are creating with your work. What is the story that this work is telling us?  It is also critical that our work is *very well documented *(see the role of the Scribe, below)*.*  
+For all of the work that is created in this class it will be our goal to create *fully realized* sonic artwork.  Fully realized means that the creators have carefully considered every aspect of how the work is created and and how it is experienced by the audience.  You should consider not only the qualities of sound that you create (this of course is extremely important), but every other aspect of the audience experience.  Think about how the seating will be arranged, think about the lighting that will be used, think about how the work will begin and end, how the speakers are arranged, what costumes the performers might wear, etc.  Think about the narrative experience that you are creating with your work. What is the story that this work is telling us?  It is also critical that our work is *very well documented.*  
 
 CRITIQUE
 
@@ -45,47 +45,17 @@ Throughout the semester, readings will be distributed through the course website
 
 WORKING IN GROUPS
 
-All work created in this course will be done in groups, with four students per group.  Each person in the group will have one of four roles:
-
-*Experience Director*:  in filmmaking it is the job of the director to consider the audience experience.  The director works with the entire filmmaking team to assemble images, sounds, and performances that create a unique and transformative narrative experience.  A good director carefully considers how every aspect of the film will effect the audience - the timing, the sounds, the colors, etc.  The director communicates with the entire team to make sure that every element of the work is contributing to the best audience experience possible.
-
-While we are not making movies in this class, we are making *experiences*.  The role of the Experience Director (ED) is to carefully consider how the work will be received by the audience.  Throughout the entire creative process the ED shall consider how the individual elements of the work contribute to the narrative journey of our sonic artworks.  The ED will be responsible for work not covered by the other team members, such as lighting, seating arrangements, etc.
-
-**The work of the Experience Director will be evaluated by the quality of our experience.**
-
-*Editor*:  The Editor manipulates the evolution of sound over time.  This can be done in a "[DAW](http://en.wikipedia.org/wiki/Digital_audio_workstation)" such as [Audacity](http://en.wikipedia.org/wiki/Audacity_%28audio_editor%29), [Logic](http://en.wikipedia.org/wiki/Logic_Pro), or [Ableton Live](http://en.wikipedia.org/wiki/Ableton_Live).  These are all powerful pieces of the software that allow you to sculpt the timing, pitch, and sound quality of sounds over time.  For the most part these DAWs function in a linear manner - your sound structure is fixed over time, every time you hit “Play” you get the exact same result.  This is traditional sound editing.
-
-The Editor can also choose to be a *Software editor*, creating custom software in environments like [Max](http://en.wikipedia.org/wiki/Max_(software)), [PD](http://en.wikipedia.org/wiki/Pure_Data), [Nyquist](http://en.wikipedia.org/wiki/Nyquist_(programming_language)), etc.  This approach frees the Editor to create wildly experimental systems, such as generative sound works - in which the behaviour of sounds is constantly changing and never-repeating.  This approach is heartily encouraged!  Of course the editor may combine techniques from sound editing and software editing to achieve the desired results.
-
-**The Editor will be evaluated by the technical and artistic skill demonstrated in the organizational use of sound.**
-
-*Sound Designer*:  The Sound Designer creates the sounds that the Editor works with.  These sounds can be produced in many different ways.  They can be [field recordings ](http://en.wikipedia.org/wiki/Field_recording)produced with a portable sound recorder.  They can be synthesized using software synthesizers, samplers, or effects machines.  They can be acoustic sounds produced by a musical instrument.  With proper attribution, you may also use "found sounds" - i.e. historical sounds downloaded from [archive.org](https://archive.org/), sounds from [online videos](https://www.youtube.com/), or open-source sound recordings from [freesound.org](https://www.freesound.org/).  The Sound Designer should not just hand off sounds to the Editor “as-is” - each sound should be polished and crafted into a unique sonic object.  Try combining sounds together to create something new.  Try changing the pitch, or the duration, or both.  Try filtering the sounds, or adding reverberations to change the sense of space.
-
-Like the Editor, the Sound Designer may choose to use a traditional DAW to design sounds, or they may choose to create custom software to create totally new methods of sound synthesis.  Creating custom software is very much encouraged!  Hybrid approaches are also great.  The Editor and Sound Designer may choose to work together in creating custom software, or on working with a DAW.
-
-**The Sound Designer’s work will be evaluated by the technical and artistic skill demonstrated in crafting the sounds that we hear.**
-
-*Scribe*:  Gallery exhibitions are mounted and dismounted in the course of a few weeks.  Concerts begin and end in the course of a few hours.  For our work to have any kind of long-term life it must have excellent audio, video, photographic, and written documentation.  Great documentation is also important in the context of our course as it will allow us to learn from one another.  
-
-The documentation for every project will be created by the person whose role is *Scribe*.  It is the job of the Scribe to document the entire process of creation, from preliminary sketches and discussion, to project development, to the finished work.  The Scribe will create written documentation that describes the entire process of the work, supplemented with photographs, screen-shots, sound recordings, video, and code.
-
-The documentation for each project will be published [on the class website](http://teaching.jessestil.es/S16-ESS/) in the form a beautifully formatted WordPress post.  WordPress is a free and open-source blogging tool and CMS.  Using WordPress is pretty intuitive, but if you encounter difficulty [there is a lot of support available online](https://www.google.com/search?q=how+to+use+wordpress).
-
-**The work of the Scribe will be evaluated based on the quality of documentation that is presented on the course website.**
-
-These roles are not rigid - your group may choose to share certain tasks and overlap in many different ways.  The Scribe could assist in software programming, the Experience Director could assist in the sound design work, etc.  If desired, you may switch roles during the course of an assignment.  Please explain any role sharing or switching that took place during your critique.  
-
-The exact nature of each role will be different in each assignment and we will discuss this on a case-by-case basis.  Over the course of the four short-term assignments we will attempt for everyone to have a chance in each of the four roles.  The groups for the short-term assignments will be created by the instructor, with the goal of assembling well balanced teams.  For the final project you may choose your own groups.
+...
 
 EVALUATION
 
-Your projects are expected to be fully realized and complete on the due dates indicated on the [course calendar](http://teaching.jessestil.es/S16-ESS/calendar/).  They will be presented in-class on the due dates for class critique.  If we are running low on time, presentations may occur over the course of two class days rather than one.  You will only have 10 minutes to set up the work for presentation, so do as much pre-staging as possible so that you can set up quickly.
+Your projects are expected to be fully realized and complete on the due dates indicated on the [course calendar](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  They will be presented in-class on the due dates for class critique.  If we are running low on time, presentations may occur over the course of two class days rather than one.  You will only have 10 minutes to set up the work for presentation, so do as much pre-staging as possible so that you can set up quickly.
 
-The Scribe will have an additional week beyond the due date to complete the documentation that is posted on the class website.  This allows the Scribe to include documentation from the in-class presentation or performance, and to include any last-minute changes that might have happened.  The post must be online exactly one week after the due date.  Posting late will result in a reduction of the score by 1 point for every day of lateness.
+Each group will have an additional week beyond the due date to complete the documentation that is posted on the class website.  This allows the group to include documentation from the in-class presentation or performance, and to include any last-minute changes that might have happened.  The post must be online exactly one week after the due date.  Posting late will result in a reduction of the score by 1 point for every day of lateness.
 
-Your work will be evaluated based on your specific role in the project.  For example, a project with excellent sound editing but poor documentation would result in an excellent grade for the Sound Editor, but a poor grade for the Scribe.
+Your work will be evaluated based on your specific role in the project.  For example, a project with excellent sound editing but poor documentation would result in an excellent grade for the person doing sound editing, but a poor grade for the person handling documentation.
 
-Each of the four short-term assignment is worth a maximum of 2 points.  Your personal research project is also worth a maximum of two points.  The points are awarded accordingly:
+Each of the XXX short-term assignment is worth a maximum of 2 points.  Your personal research project is also worth a maximum of two points.  The points are awarded accordingly:
 
 0:  Incomplete.  For example: the code does not work, the work does neet address the goal of the assignment, the work was not delivered on-time.
 
@@ -109,7 +79,7 @@ The most important essential skill is the ability to learn new skills independen
 
 The tutorials presented throughout the course are provided only as a starting point: throughout the course of the semester, you are expected to build upon these references by finding more references, finding better references, and creating your own video and photo teaching material.  There is a great wealth of online information, documentation, and instruction on many different techniques for working with sound.
 
-You should use the social commenting features of the website to share new and better references for essential skills. This contribution accounts towards the participation portion of your final grade.
+You should use the Facebook group to ask questions, provide answers, and to share new and better references for essential skills. This contribution accounts towards the participation portion of your final grade.
 
 EQUIPMENT
 
