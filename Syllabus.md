@@ -3,11 +3,11 @@
 
 Instructor: Professor Jesse Stiles ([jessestiles@cmu.edu](mailto:jessestiles@cmu.edu))    
 TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))      
-Class meeting time: M/W 9:30AM - 11:20AM  
+Class meeting time: M/W 10:30AM to 12:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
 Facebook Group: [https://www.facebook.com/groups/ESS.S17/](https://www.facebook.com/groups/ESS.S17/)   
-Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
+Instructor office hours: Wednesdays, 3:00PM to 5:00PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
 TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
 COURSE DESCRIPTION
@@ -40,9 +40,11 @@ You will have access to the Media Lab outside of class hours - it is an excellen
 
 ASSIGNMENTS
 
-There will be three short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](https://courses.ideate.cmu.edu/57-344/s2017/calendar/).  Your final project will be a collaboration with the [Phipps Conservatory and Botanical Gardens](https://phipps.conservatory.org/) for the [Butterfly Forest](https://phipps.conservatory.org/calendar/detail/butterfly-forest)!  We will be creating a site-specific musical soundscape for the beautiful Victorian greenhouse in which the butterflies will live.  We will also support the sound installation with a series of supporting concerts and other events.  More details on this exciting project will be emerge throughout the semester.
+There will be three group-based short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](https://courses.ideate.cmu.edu/57-344/s2017/calendar/).  Your final project will be a collaboration with the [Phipps Conservatory and Botanical Gardens](https://phipps.conservatory.org/) for the [Butterfly Forest](https://phipps.conservatory.org/calendar/detail/butterfly-forest)!  We will be creating a site-specific musical soundscape for the beautiful Victorian greenhouse in which the butterflies will live.  We will also support the sound installation with a series of supporting concerts and other events.  More details on this exciting project will be emerge throughout the semester.
 
 For all of the work that is created in this class it will be our goal to create *fully realized* sonic artwork.  Fully realized means that the creators have carefully considered every aspect of how the work is created and and how it is experienced by the audience.  You should consider not only the qualities of sound that you create (this of course is extremely important), but every other aspect of the audience experience.  Think about how the seating will be arranged, think about the lighting that will be used, think about how the work will begin and end, how the speakers are arranged, what costumes the performers might wear, etc.  Think about the narrative experience that you are creating with your work. What is the story that this work is telling us?  It is also critical that our work is *very well documented.*  
+
+Submitting work is a two step process.  Firstly, it is presented in class.  Secondly, documentation of the work is submitted on [the class website](https://courses.ideate.cmu.edu/57-344/s2017/).  The class website is powered by Wordpress, an easy-to-use and open-source CMS with [no shortage of online documentation and support](https://www.google.com/search?q=how%20to%20use%20wordpress).  Creating excellent documentation can be just as much as work as creating the work itself - it is acceptable if a group member wishes to take this on as their primary contribution to a project they will be assessed accordingly.
 
 CRITIQUE
 
