@@ -6,12 +6,8 @@ TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))
 Class meeting time: M/W 10:30AM to 12:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
-<<<<<<< HEAD
-Instructor office hours: Tuesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
-=======
 Facebook Group: [https://www.facebook.com/groups/ESS.S17/](https://www.facebook.com/groups/ESS.S17/)   
-Instructor office hours: Wednesdays, 3:00PM to 5:00PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
->>>>>>> origin/master
+Instructor office hours: Tuesdays, 3:00PM to 5:00PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
 TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
 COURSE DESCRIPTION
@@ -54,7 +50,7 @@ CRITIQUE
 
 The short-term assignments will be presented and critiqued in class on the due dates.  Attendance on critique days is absolutely essential.  The entire class will participate in critiques.  Our goal will be to have productive, supportive, and thoughtful critiques.  Critiques will begin with audience persons describing their experience of the work.  Our considerations will include, but not be limited to the following lines of thought:
 
-*• Narrative*: What story did this work tell us?  How did the work make us feel?
+*• Narrative*: What story did this work tell us?  How did the work make us feel?
 
 *• Auditory*: Describe, as simply as you can, the sounds that you heard.  What is the sense of space that these sounds create?  How did the sounds behave: did they fluctuate in pitch, rhythm, quality, spatial position?  Did the fluctuations fluctuate?  Did these sounds remind you of anything?
 
