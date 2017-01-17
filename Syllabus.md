@@ -3,124 +3,80 @@
 
 Instructor: Professor Jesse Stiles ([jessestiles@cmu.edu](mailto:jessestiles@cmu.edu))    
 TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))      
-Time: M/W 9:30AM - 11:20AM  
+Class meeting time: M/W 10:30AM to 12:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
+<<<<<<< HEAD
 Instructor office hours: Tuesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
+=======
+Facebook Group: [https://www.facebook.com/groups/ESS.S17/](https://www.facebook.com/groups/ESS.S17/)   
+Instructor office hours: Wednesdays, 3:00PM to 5:00PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
+>>>>>>> origin/master
 TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
 COURSE DESCRIPTION
 
-Description goes here
+***Experimental:*** *using a new way of doing or thinking*  
+***Sound:*** *mechanical radiant energy that is transmitted by longitudinal pressure waves in a material medium (such as air) and is the objective cause of hearing*  
+***Synthesis:*** *something that is made by combining different things*  
+
+In this course we will explore a variety of innovative approaches to "sonic artwork" - a broad field which includes [experimental music](http://en.wikipedia.org/wiki/Experimental_music), [sound design](http://en.wikipedia.org/wiki/Sound_design), [sound art](http://en.wikipedia.org/wiki/Sound_art), and [multimedia art](http://en.wikipedia.org/wiki/Multimedia_artist).  Topics will include: composing and mixing in [multichannel sound formats](http://en.wikipedia.org/wiki/Surround_sound), designing electronic performance instruments, [electroacoustic music ](http://en.wikipedia.org/wiki/Electroacoustic_music)performance, [3D sound recording](http://en.wikipedia.org/wiki/Ambisonics), reactive sound environments, sonic sculpture, and beyond.  It will be our goal to challenge conventional methods of creating and experiencing sonic art.  To assist in this endeavor we will also develop our skills of critical listening, and will expand our vocabulary for describing our experience of sound.
+
+In this course students from a variety of disciplines will work together to design, prototype, and execute a series of ambitious projects.  The course will culminate with a concert and exhibition featuring works that demonstrate the concepts and skills we have explored throughout the semester.
 
 COURSE CALENDAR
 
-The course calendar is [here](https://courses.ideate.cmu.edu/18-090/f2016/calendar/).
-
-LEARNING GOALS
-
-1. Present a survey of Signal Processing techniques that are used in the sonic and visual arts.
-
-2. Develop a working knowledge of how to implement, combine, and modify Signal Processing techniques, and to integrate these techniques into one’s art-making.
-
-3. Develop a familiarity with the mathematical concepts underlying Signal Processing techniques.
-
-4. Get strong at [Max](https://cycling74.com/products/max/).
-
-ASSIGNMENTS & PROJECTS
-
-There are 4 short-term assignments that will be completed over the course of the semester as well as 2 longer-term projects. Due dates for every assignment are listed [on the course calendar](https://courses.ideate.cmu.edu/18-090/f2016/calendar/). Assignments are due before the start of the class on the date indicated.
-
-Submission of assignments/projects is a two step process.
-
-1. The student creates a post on the course website with documentation of the work. This will include code, video documentation, and audio documentation. For details on the proper formatting of documentation see [this page](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/posting-to-the-site/). Documentation that is improperly formatted will be considered unacceptable.
-
-2. The student [turns in the assignment using Blackboard ](http://www.cmu.edu/blackboard/gettingstarted/#gettingstarted/assignments)by pasting a link to your post in the "Text Submission" area.
-
-Assignments that are delivered late will be penalized. See the grading section of the syllabus for further details.
-
-SHARING YOUR WORK WITH ALL OF THE CMU/WORLD
-
-If you would like to share your work with the CMU community and perhaps the whole world, feel free to post your work in the IDeATe online gallery at: [gallery.ideate.cmu.edu](http://gallery.ideate.cmu.edu).  Excellent student work will be featured on the [main IDeATe website](http://ideate.cmu.edu/).
+The course calendar can be viewed online [here](https://courses.ideate.cmu.edu/57-344/s2017/calendar/).  
 
 ONLINE DISCUSSION/ANNOUNCEMENTS
 
-Please join the [class Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) to participate in online discussion and receive course-related announcements.
+Please join the [class Facebook Group](https://www.facebook.com/groups/ESS.S17/) to participate in online discussion and receive course-related announcements.
 
-Students are expected to post to the [Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/) at least once per week.  Your post can be about anything even tangentially related to the course.  Posts can be as simple as a link to a youtube video that you find interesting - for example documentation of [a work of electronic art](https://www.youtube.com/watch?v=AdK-no9dKIA), or a [Max tutorial](https://www.youtube.com/results?search_query=max+tutorial) you found useful.  Your posts could also just be questions or commentary that you might have about course-related topics throughout the semester.  Posting to the Facebook Group is a great way of sharing your knowledge and learning experience with your fellow students.  Please post the group by the end of the day every Sunday so that we can discuss posts in class the following Monday.
+Students are expected to post to the [Facebook Group](https://www.facebook.com/groups/ESS.S17/) at least once per week.  Your post can be about anything even tangentially related to the course.  Posts can be as simple as a link to a youtube video that you find interesting - for example documentation of [a work of electronic art](https://www.youtube.com/watch?v=AdK-no9dKIA), or a [Max tutorial](https://www.youtube.com/results?search_query=max+tutorial) you found useful.  Your posts could also just be questions or commentary that you might have about course-related topics throughout the semester.  Posting to the Facebook Group is a great way of sharing your knowledge and learning experience with your fellow students.  Please post the group by the end of the day every Sunday so that we can discuss posts in class the following Monday.
 
- [https://www.facebook.com/groups/twisted.signals.f16/](https://www.facebook.com/groups/twisted.signals.f16/).
+FILE SHARING
 
-QUIZZES
-
-There will be four short quizzes to test your progress on both the theory side of things (principles of Signal Processing) and the practical side of things (creating working patches using [Max](https://cycling74.com/products/max/).  Dates for the quizzes are on indicated [on the course calendar](http://jessestil.es/teaching/fall2015-DMI/calendar/).
-
-SOFTWARE
-
-The majority of the work we do in class will be done in [Max](https://cycling74.com/products/max/), a graphical programming environment that is optimized for artists, musicians, and other creative practitioners. For access to the software you have three options:
-
-You may work on the Mac Pro that is permanently installed in the Media Lab. Select the "Media Lab User" user account. When you are using this account create a folder with your Andrew ID and store all your files in this folder. It is very important that you back up your work every time you work on the computer. It is entirely possible that files on a communally used machine can be unexpectedly moved, erased, or modified. Get an external drive (physical or in the cloud) and back up your work constantly.
-
-You may also work on any of the 40 MacBook Pro laptops that are available to you in the IDeATe storage room. Similarly, you must be diligent in backing up your work when using these machines. The laptops and the Mac Pro all have Max 7, Logic Pro, Audacity, Arduino, Final Cut, Photoshop, Illustrator, and many other useful pieces of software.
-
-Thirdly, you may work on your own computer. A one-year license of Max is available for $59. If you work on your own computer you will be responsible for acquiring and maintaining any of the software you choose to use. Your instructor cannot provide technical support on your computer for you.
-
-Max is available from Cycling 74 at:
-
-[https://cycling74.com/shop/](https://cycling74.com/shop/).  Make sure you take advantage of the student discounts.
-
-THE GIT
-
-A Github repo with course-related patches, media, and other ephemera can be found at: [https://github.com/jts3k/Twisted-Signals-F16](https://github.com/jts3k/Twisted-Signals-F16).  This repo will be updated throughout the semester as new patches and concepts are presented in class.
-
-EQUIPMENT & FACILITIES
-
-Please read and become familiar with the IDeATe lending and purchasing policies, which can be accessed at [resources.ideate.cmu.edu](http://resources.ideate.cmu.edu). The IDeATe facilities are shared student resources and spaces. As such, all members of the IDeATe community are expected to be respectful of the equipment, the spaces, and fellow students and their projects. Always clean up after completing your work, put things back in their correct place, and leave the lab in better condition than you found it.
-
-Students may be required to purchase materials to complete class projects. For convenience, some materials are available for borrowing and for purchase at IDeATe Lending (Hunt A29).
-
-If you experience any issues with IDeATe facilities such as swipe card access, access to the room reservations system, non-functioning or damaged equipment, etc., send an email describing your issue to: [help@ideate.cmu.edu](mailto:help@ideate.cmu.edu).
-
-ONLINE RESOURCES
-
-A list of excellent online resources has been posted on the course website [here](https://courses.ideate.cmu.edu/18-090/f2016/resources/).  An essential resource is the Cycling 74 discussion forums, it is highly recommended that you join the forums and the read discussions that arise - you will learn *a lot*.  This is also a great place to get questions answered, and to seek out advice for problem-solving.  If you post questions clearly and politely you are likely to get some great responses very quickly.
-
-ON TAKING NOTES
-
-You should take notes.
+We will use a [Github repo](https://github.com/jts3k/ESS-S17) to share code and a [Google Drive directory](https://goo.gl/GR53PF) to share other files such as readings, audio/video recordings, etc.  Bookmark these important resources!
 
 USING THE MEDIA LAB
 
-You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects. To use the Media Lab outside of class time you must [make a reservation using the online reservation system](https://resources.ideate.cmu.edu/reservations/day.php?area=5). When using the Media Lab outside of class you must comply with the [policies indicated on the class website](https://courses.ideate.cmu.edu/18-090/f2016/2016/08/16/media-lab-policies/).
+You will have access to the Media Lab outside of class hours - it is an excellent environment for you to work on your projects.  To use the Media Lab outside of class time you must make a reservation using the [online reservation system](http://ideate.andrew.cmu.edu/reservations/day.php?area=5).  When using the Media Lab outside of class you must comply with the [policies indicated on the IDeATe website](https://resources.ideate.cmu.edu/spaces/media-lab/).  The Media Lab has a [dedicated Github repo](https://github.com/jts3k/MediaLab) with tutorials and demo software for using the various equipment in the space - bookmark it!
 
-ACADEMIC INTEGRITY
+ASSIGNMENTS
 
-When we are designing new software it is perfectly acceptable to use sections of code from examples found on the web, in help files, in tutorials, etc. Indeed, this is not only acceptable but is totally necessary if one wants to work efficiently.
+There will be three group-based short-term assignments, one personal research project, and one final project.  Due dates for each of the assignments are indicated on [the course calendar](https://courses.ideate.cmu.edu/57-344/s2017/calendar/).  Your final project will be a collaboration with the [Phipps Conservatory and Botanical Gardens](https://phipps.conservatory.org/) for the [Butterfly Forest](https://phipps.conservatory.org/calendar/detail/butterfly-forest)!  We will be creating a site-specific musical soundscape for the beautiful Victorian greenhouse in which the butterflies will live.  We will also support the sound installation with a series of supporting concerts and other events.  More details on this exciting project will be emerge throughout the semester.
 
-Furthermore, when we are creating new works of electronic art is perfectly acceptable to make use of found materials (video files, sound files, images, etc.) to use as raw material in creating new works of art/music/design.
+For all of the work that is created in this class it will be our goal to create *fully realized* sonic artwork.  Fully realized means that the creators have carefully considered every aspect of how the work is created and and how it is experienced by the audience.  You should consider not only the qualities of sound that you create (this of course is extremely important), but every other aspect of the audience experience.  Think about how the seating will be arranged, think about the lighting that will be used, think about how the work will begin and end, how the speakers are arranged, what costumes the performers might wear, etc.  Think about the narrative experience that you are creating with your work. What is the story that this work is telling us?  It is also critical that our work is *very well documented.*  
 
-When using found code/images/sounds in your own work there are two requirements:
+Submitting work is a two step process.  Firstly, it is presented in class.  Secondly, documentation of the work is submitted on [the class website](https://courses.ideate.cmu.edu/57-344/s2017/).  The class website is powered by Wordpress, an easy-to-use and open-source CMS with [no shortage of online documentation and support](https://www.google.com/search?q=how%20to%20use%20wordpress).  Creating excellent documentation can be just as much as work as creating the work itself - it is acceptable if a group member wishes to take this on as their primary contribution to a project they will be assessed accordingly.
 
-1. **Attribution**. You must clearly identify where the code/images/sound came from.
+CRITIQUE
 
-2. **Transformation**. You must *significantly transform* the materials you are using. You should extend the material, modify it into something new, offer new insight into the concepts underlying the material, etc. Work that uses borrowed code or other materials without significantly transforming those materials will result in a low grade.
+The short-term assignments will be presented and critiqued in class on the due dates.  Attendance on critique days is absolutely essential.  The entire class will participate in critiques.  Our goal will be to have productive, supportive, and thoughtful critiques.  Critiques will begin with audience persons describing their experience of the work.  Our considerations will include, but not be limited to the following lines of thought:
 
-More information on CMU’s Academic Integrity policy can be found at:
-[http://www.cmu.edu/academic-integrity/](http://www.cmu.edu/academic-integrity/)
+*• Narrative*: What story did this work tell us?  How did the work make us feel?
 
-ATTENDANCE & CLASS PARTICIPATION
+*• Auditory*: Describe, as simply as you can, the sounds that you heard.  What is the sense of space that these sounds create?  How did the sounds behave: did they fluctuate in pitch, rhythm, quality, spatial position?  Did the fluctuations fluctuate?  Did these sounds remind you of anything?
 
-Attendance: Unexcused absences are disruptive and disrespectful. If you are unable to attend class for any reason you must email me in advance. Failure to contact me before the start of class will result in an unexcused absence. Three or more unexcused absences will result in the drop of one letter grade per absence. This means that if you have three unexcused absences and would otherwise receive an A in the class, you will receive a B. If you have four unexcused absences and would otherwise receive an A, you will receive a C, etc.
+*• Visual*: Perhaps it’s not totally obvious, but our visual experience of sonic artwork is incredibly important.  Listening to a sound in a brightly lit Dentist’s office is a completely different experience than listening to the same sound in a beautifully decorated concert hall, or listening to the same sound in a darkened theater.  Carefully consider the entire audiovisual environment that you create with your work.
 
-Absences: You are responsible for what happens in class whether you’re here or not. Organize with your classmates to get class information and material that you have missed. We cannot repeat course material in class just for you.
+READINGS
 
-Participation: You are invited, encouraged, and expected to engage actively in discussion, reflection and activities. Our class time is precious and limited. Please refrain from distracting electronic behavior such as texting during class time.  Failure to follow this request will negatively affect your grade for class participation. Your contributions towards the class website will also count towards your class participation.
+Throughout the semester, readings will be distributed through the course website.  Students will take turns leading a discussions on the various readings the week after they are distributed.
 
-GRADING
+WORKING IN GROUPS
 
-Grading for the course is based on the assignments, projects, quizzes, and class participation.
+The short-term projects will be completed in groups of three to four students.  Each group member will be assessed on their individual contribution to the project.  The final project will be a collaboration with the entire class.  Again, each student will be assessed based on their individual contributions.
 
-Each of the short-term assignment will graded on a scale from 0 to 4 points. Of these 4 points, 2 shall be awarded to the quality and originality of the concept in the work. Another 2 points shall be awarded to the quality of the technical execution of the work. For both criteria, concept and execution, the determination shall be made accordingly:
+EVALUATION
+
+Your projects are expected to be fully realized and complete on the due dates indicated on the [course calendar](https://courses.ideate.cmu.edu/57-344/s2017/?page_id=47).  They will be presented in-class on the due dates for class critique.  If we are running low on time, presentations may occur over the course of two class days rather than one.  You will only have 10 minutes to set up the work for presentation, so do as much pre-staging as possible so that you can set up quickly.
+
+Each group will have an additional week beyond the due date to complete the documentation that is posted on the class website.  This allows the group to include documentation from the in-class presentation or performance, and to include any last-minute changes that might have happened.  The post must be online exactly one week after the due date.  Posting late will result in a reduction of the score by 1 point for every day of lateness.
+
+Your work will be evaluated based on your specific role in the project.  For example, a project with excellent sound editing but poor documentation would result in an excellent grade for the person doing sound editing, but a poor grade for the person handling documentation.
+
+The short-term assignments and your individual project will graded on a scale from 0 to 4 points. Of these 4 points, 2 shall be awarded to the quality and originality of the concept in the work. Another 2 points shall be awarded to the quality of the technical execution of the work. For both criteria, concept and execution, the determination shall be made accordingly:
 
 0: Incomplete. For example: the code does not work, the work does not address the goal of the assignment, the work was not delivered on-time.
 
@@ -128,20 +84,60 @@ Each of the short-term assignment will graded on a scale from 0 to 4 points. Of 
 
 2: Excellent. The work demonstrates an outstanding concept or execution. The work demonstrates great insight.
 
-Your projects will be evaluated in the same way, but P1 will be worth 6 points and P2 will be worth 10 points.  So the same as the Assignments, but then multiplied by 1.5 and 2.5 respectively.
+The final project will be worth a maximum of 8 points.  The points will be awarded with the same criteria as above, but then **multiplied by two.**
 
-Each of the four quizzes will be worth 2 points.
+You class participation will account for another 4 points towards your final grade.
 
-Class participation will be worth 10 points. This includes your participation in discussions and activities during class-time, as well as your online participation (posting to [the Facebook Group](https://www.facebook.com/groups/twisted.signals.f16/), authoring high-quality documentation of your own work, and commenting on posts authored by your classmates and instructor).
+Your final grade will be determined by your total score out of the maximum score of 20.
 
-Work that is delivered late will have the potential score reduced by 10 percent for every day of lateness.  For example, work that is delivered one day late will only receive 90 percent of the points that would be received if it was delivered on time.  Work that is delivered three days late will only receive 70 percent of the potential points, etc.  Work will not be accepted if it is more than one week late.
+Your grades will be made available to you via [Blackboard](http://www.cmu.edu/blackboard/gettingstarted/), within 2 weeks of presenting the work.  This will allow you to monitor your grade in realtime - there is no reason for you to be surprised by your grade at the end of the semester as long as you are monitoring your performance via [Blackboard](http://www.cmu.edu/blackboard/gettingstarted/).
 
-*To summarize:*
+ESSENTIAL SKILLS
 
-Short term assignments: 4 x 4 = **16 points**  
-Projects: 6 + 10 = **16 points**  
-Quizzes: 4 x 2 = **8 points**  
-Class participation: **10 points**  
-Total: ***50 points***
+Throughout the semester there will be demonstrations on essential skills for the work that we are doing.  This course, however, is not about learning specific technical skills.  There are so many different techniques used in creating sonic artwork that it would be impossible to cover everything in one semester.  
 
-Your final grade will be determined by multiplying the total by two and applying a curve, if appropriate.
+The most important essential skill is the ability to learn new skills independently and to teach them to others. The course website will offer guidelines and tutorials for essential skills.  These will be posted throughout the semester and you may request lessons on topics of interest as the semester proceeds.
+
+The tutorials presented throughout the course are provided only as a starting point: throughout the course of the semester, you are expected to build upon these references by finding more references, finding better references, and creating your own video and photo teaching material.  There is a great wealth of online information, documentation, and instruction on many different techniques for working with sound.
+
+You should use the Facebook group to ask questions, provide answers, and to share new and better references for essential skills. This contribution accounts towards the participation portion of your final grade.
+
+EQUIPMENT
+
+There is a wide variety of sound, video, and photo equipment available to you from the IDeATe storage room.  The Media Lab is also packed to the gills with powerful audio/video equipment.  Your participation in the course makes all of this equipment available to you throughout the semester (and in the future, if you pay a minimal "Membership Fee.")
+
+We are able to afford these many fine instruments because we are a large community, working together.  To be a part of this community you must respect communally used equipment, and *take excellent care of it.*  If you damage equipment due to careless behavior the cost of repairs will be charged to your student account.
+
+For your computer work you have three options:
+
+You may work on the Mac Pro that is permanently installed in the Media Lab.  Select the "Media Lab User" user account.  When you are using this account create a folder with your Andrew ID and store all your files in this folder.  **It is very important that you back up your work every time you work on the computer.**  It is entirely possible that files on a communally used machine can be unexpectedly moved, erased, or modified.  Get an external hard drive or USB thumb drive and back up your work constantly.
+
+You may also work on any of the 40 MacBook Pro laptops that are available to you in the IDeATe storage room.  Similarly, you must be diligent in backing up your work when using these machines.  The laptops and the Mac Pro all have Max 7, Logic Pro, Audacity, Arduino, Final Cut, Photoshop, Illustrator, and many other useful pieces of software.
+
+Thirdly, you may work on your own computer.  If you work on your own computer you will be responsible for acquiring and maintaining any of the software you choose to use.  Your instructor cannot provide technical support on your computer for you.  
+
+ACADEMIC INTEGRITY
+
+When we are designing new software it is perfectly acceptable to use sections of code from examples found on the web, in help files, in tutorials, etc.  Indeed, this is not only acceptable but is totally necessary if one wants to work efficiently.
+
+Furthermore, when we are creating new works of electronic art is perfectly acceptable to make use of found materials (video files, sound files, images, etc.) to use as raw material in creating new works of art/music/design.
+
+When using found code/images/sounds in your own work there are two requirements:
+
+*Attribution*.  You must clearly identify where the code/images/sound came from.
+
+*Transformation*.  You must significantly transform the materials you are using.  You should extend the material, modify it into something new, offer new insight into the concepts underlying the material, etc.  Work that uses borrowed code or other materials without significantly transforming those materials will result in a low grade.
+
+More information on CMU’s Academic Integrity policy can be found at:
+
+[http://www.cmu.edu/academic-integrity](http://www.cmu.edu/academic-integrity)
+
+ATTENDANCE AND PARTICIPATION
+
+*Attendance*:  Unexcused absences are disruptive and disrespectful - especially when we are working on group projects.  How is your group supposed to advance the work without you?
+
+If you are unable to attend class for any reason **you must email me, and the other members of your group, in advance**.  Failure to contact myself and your group members before the start of class will result in an unexcused absence.  Three or more unexcused absences will result in the drop of one letter grade per absence.  This means that if you have three unexcused absences and would otherwise receive an A in the class, you will receive a B.  If you have four unexcused absences and would otherwise receive an A, you will receive a C, etc.
+
+*Absences*: You are responsible for what happens in class whether you’re here or not. Organize with your classmates to get class information and material that you have missed.  We cannot repeat course material in class just for you.
+
+*Participation*: You are invited, encouraged, and expected to engage actively in discussion, reflection and activities. Our class time is precious and limited. Please refrain from texting, facebooking, tweeting, etc., during class time - this behaviour during class is distracting, disruptive, and disrespectful. Failure to follow this request will negatively affect your grade for class participation.  Your contributions towards the class website will also count towards your class participation.
