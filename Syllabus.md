@@ -6,7 +6,7 @@ TA: Alexander Panos ([apanos@andrew.cmu.edu](mailto:apanos@andrew.cmu.edu))
 Time: M/W 9:30AM - 11:20AM  
 Location: Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing)  
 Class website: [https://courses.ideate.cmu.edu/57-344/](https://courses.ideate.cmu.edu/57-344/s2017/)  
-Instructor office hours: Wednesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
+Instructor office hours: Tuesdays, 2:30PM to 4:30PM - Hunt Library Media Lab, [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).    
 TA office hours: Fridays, 12:30PM to 2PM - [HLA10A](https://drive.google.com/file/d/0B5KAwRis5WlVU2dLeFF4S3JDZUE/view?usp=sharing).
 
 COURSE DESCRIPTION
