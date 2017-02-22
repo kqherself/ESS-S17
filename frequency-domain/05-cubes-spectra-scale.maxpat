@@ -3,13 +3,13 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 3,
-			"revision" : 1,
+			"minor" : 2,
+			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 1181.0, 382.0, 1716.0, 956.0 ],
+		"rect" : [ 484.0, 418.0, 1716.0, 956.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,6 +38,32 @@
 		"subpatcher_template" : "my-temp",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-6",
+					"maxclass" : "live.gain~",
+					"numinlets" : 2,
+					"numoutlets" : 5,
+					"outlettype" : [ "signal", "signal", "", "float", "list" ],
+					"parameter_enable" : 1,
+					"patching_rect" : [ 756.0, 313.0, 48.0, 136.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "live.gain~",
+							"parameter_shortname" : "live.gain~",
+							"parameter_type" : 0,
+							"parameter_mmin" : -70.0,
+							"parameter_mmax" : 6.0,
+							"parameter_initial" : [ 0.0 ],
+							"parameter_unitstyle" : 4
+						}
+
+					}
+,
+					"varname" : "live.gain~"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-46",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
@@ -47,8 +73,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 2,
+							"revision" : 5,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -499,7 +525,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 756.0, 420.0, 146.0, 22.0 ],
+					"patching_rect" : [ 756.0, 483.0, 146.0, 22.0 ],
 					"style" : "",
 					"text" : "pfft~ spectra-to-scale 256"
 				}
@@ -514,7 +540,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 790.0, 314.0, 73.0, 36.5 ],
+					"patching_rect" : [ 829.0, 322.0, 73.0, 36.5 ],
 					"style" : ""
 				}
 
@@ -616,9 +642,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 361.0, 135.0, 576.0, 22.0 ],
+					"patching_rect" : [ 361.0, 135.0, 655.0, 22.0 ],
 					"style" : "",
-					"text" : "jit.gl.plato multiples @name lotsashapes @shape cube @color 1 0.6 0.1 1 @poly_mode 1 1 @automatic 0"
+					"text" : "jit.gl.plato multiples @name lotsashapes @shape cube @automatic 0 @line_width 3 @color 1 0.6 0.2 1 @poly_mode 1 1"
 				}
 
 			}
@@ -665,7 +691,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-24", 0 ],
+					"destination" : [ "obj-6", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-22", 0 ]
@@ -692,10 +718,28 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-4", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-46", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-19", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-5", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-24", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-6", 0 ]
 				}
 
 			}
@@ -709,9 +753,13 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-6" : [ "live.gain~", "live.gain~", 0 ]
+		}
+,
 		"dependency_cache" : [ 			{
 				"name" : "spectra-to-scale.maxpat",
-				"bootpath" : "~/Github/ESS-S17/frequency-domain/lib",
+				"bootpath" : "~/Documents/Github/ESS-S17/frequency-domain/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -736,9 +784,6 @@
 		"styles" : [ 			{
 				"name" : "wm20150520a",
 				"default" : 				{
-					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
-					"fontname" : [ "Monaco" ],
-					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ],
 					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
@@ -750,8 +795,11 @@
 						"autogradient" : 0
 					}
 ,
+					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ],
+					"fontname" : [ "Monaco" ],
 					"color" : [ 0.18882, 0.288104, 0.351331, 1.0 ],
-					"bgcolor" : [ 0.982943, 0.978557, 0.972212, 1.0 ]
+					"accentcolor" : [ 0.85109, 0.842249, 0.830042, 1.0 ],
+					"elementcolor" : [ 0.780914, 0.800218, 0.843168, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
